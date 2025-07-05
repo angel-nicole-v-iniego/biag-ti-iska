@@ -1,8 +1,6 @@
 ## It's all about sharing!
 
-Hola! W
-
-elcome, welcome!
+Hola! Welcome, welcome!
 
 It's my way of sharing what I have been learning.
 
