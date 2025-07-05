@@ -2,7 +2,8 @@
 title: Initialized!
 author: scical03
 pubDatetime: 2025-07-05T11:06:31.123Z
-slug: example-draft-post
+modDatetime: 2025-07-05 23:35:10
+slug: initial-post
 featured: true
 draft: false
 tags:

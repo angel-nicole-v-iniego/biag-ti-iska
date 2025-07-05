@@ -2,7 +2,7 @@
 title: Surviving the Math 2X series
 author: scical03
 pubDatetime: 2025-07-05T10:42:42.000Z
-slug: example-draft-post
+slug: survival-math-2X
 featured: true
 draft: false
 tags:
