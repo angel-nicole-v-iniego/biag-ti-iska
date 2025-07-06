@@ -1,7 +1,7 @@
 ---
 title: No more lobby-ing! - saan pwedeng tumambay?
-author: scical
-pubDatetime: 2025-07-06 15:52:33
+author: scical03
+pubDatetime: 2025-07-06T08:04:21Z
 slug: up-tambayan
 featured: true
 draft: false

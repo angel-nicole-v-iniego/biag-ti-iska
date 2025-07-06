@@ -3,7 +3,7 @@ title: Initialized!
 author: scical03
 pubDatetime: 2025-07-05T10:06:31.123Z
 slug: initial-post
-featured: true
+featured: false
 draft: false
 tags:
   - Beginning
